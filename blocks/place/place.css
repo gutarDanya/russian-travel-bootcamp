@@ -5,7 +5,7 @@ grid-template-columns:repeat(2, minmax(min-content,max-content));
     row-gap: 48px;
     grid-template-areas:
    "title website"
-   "image text" ;
+   "image text";
 }
 
 @media (max-width:1024px){
@@ -29,6 +29,6 @@ grid-template-areas:
 "website"
 "image"
 "text";
-row-gap:32px ;
+row-gap: 32px;
 }
 }
