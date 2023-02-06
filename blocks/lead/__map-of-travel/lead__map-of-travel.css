@@ -1,0 +1,29 @@
+.lead__map-of-travel{
+    position:absolute;
+    top: 90px;
+    left:23px;
+}
+
+@media (max-width:1024px){
+    .lead__map-of-travel{
+top:85px;
+width:883px;
+left:22px;
+    }
+}
+
+@media (max-width:768px){
+    .lead__map-of-travel{
+        width:731px;
+        top: 70px;
+        left:18px;
+    }
+}
+
+@media (max-width:320px){
+    .lead__map-of-travel{
+        width:304px;
+        top:30px;
+        left:8px;
+    }
+}

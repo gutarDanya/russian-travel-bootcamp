@@ -1,0 +1,22 @@
+.lead__caption{
+    font-size:10px;
+    line-height: 14px;
+    margin:8px auto 0 0;
+    align-self: flex-start;
+    color:white;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+}
+
+@media (max-width:768px){
+    .lead__caption{
+        margin: 8px auto 0 24px;
+    }
+}
+
+@media (max-width:320px){
+    .lead__caption{
+        margin: 8px auto 0 16px;
+    }
+}

@@ -1,0 +1,32 @@
+.lead__image{
+    display:flex;
+    position: relative;
+    width:984px;
+    height:615px;
+    justify-content: center;
+    flex-direction: column;
+    margin-top:64px;
+}
+
+@media (max-width:1024px){
+    .lead__image{
+        height:580px;
+    width:928px;
+    margin-top: 56px;
+    }
+}
+
+@media (max-width:768px){
+    .lead__image{
+        height:480px;
+        width:768px;
+    }
+}
+
+@media (max-width:320px){
+    .lead__image{
+        width:320px;
+        height:200px;
+        margin-top: 40px;
+    }
+}
