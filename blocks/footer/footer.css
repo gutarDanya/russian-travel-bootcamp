@@ -1,9 +1,9 @@
 .footer{
-    margin:92px auto 0;
+    margin:92px 48px 0 48px;
     display: flex;
     justify-content: flex-start;
     height:18px;
-    width:1184px;
+    width:calc(100% - 96px);
 }
 
 @media (max-width:1024px){
