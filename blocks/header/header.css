@@ -20,8 +20,7 @@ align-items: flex-end;
 }
 
 @media (max-width:320px){
-    .header{
-        max-width: calc(100% - 32px);
-        margin-left:16px;
+    .header{width: calc(100% - 32px);
+        margin:
     }
 }
