@@ -1,7 +1,3 @@
-.header__logo{
-    
-}
-
 @media (max-width:320px) {
     .header__logo{
         height:42px;

@@ -9,6 +9,7 @@
     padding-bottom:24px;
     padding-top: 28px;
     box-sizing: border-box;
+    overflow:hidden;
 }
 
 @media (max-width:1024px){
