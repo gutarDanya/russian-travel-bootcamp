@@ -13,19 +13,19 @@
 
 @media (max-width:1024px){
     .page{
-        min-width:1024px;
+        max-width:1024px;
     }
 }
 
 @media (max-width: 768px){
     .page{
-        min-width:768px;
+        max-width:768px;
     }
 }
 
 @media (max-width: 320px){
     .page{
-        min-width:320px;
+        max-width:320px;
         padding-top: 16px;
     }
 }
