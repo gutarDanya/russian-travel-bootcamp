@@ -1,0 +1,7 @@
+.header__lang-links{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 18px;
+    align-self: flex-end;
+    margin-bottom: 5px;
+}

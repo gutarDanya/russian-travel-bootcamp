@@ -1,25 +1,20 @@
 .header {
-    width:calc(100% - 96px);
-    height:52px;
-    margin: 0 auto 0;
-    display:flex;
-align-items: flex-end;
-}
-
-@media (max-width:1024px) {
-    .header{
-        max-width:calc(100% - 96px);
-    }
+    width: calc(100% - 96px);
+    margin: 0 48px 0;
+    display: flex;
+    justify-content: space-between;
 }
 
 @media(max-width: 768px) {
-    .header{
-        max-width: calc(100% - 48px);
-        margin: 0 auto 0;
+    .header {
+        max-width: 720px;
+        margin: 0 24px 0;
     }
 }
 
-@media (max-width:320px){
-    .header{width: calc(100% - 32px);
+@media (max-width:350px) {
+    .header {
+        margin: 0 auto 0;
+        width: calc(100% - 32px);
     }
 }

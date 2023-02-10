@@ -1,19 +1,7 @@
-.place__text{
+.place__text {
     display: grid;
     gap: 26px;
     flex-direction: column;
     grid-area: text;
-    grid-template-rows: minmax(min-content,max-content);
-}
-
-@media (max-width:1024px){
-    .place__text{
-        gap:26px;
-    }
-}
-
-@media (max-width:768px){
-    .place__text{
-        gap:26px;
-    }
+    grid-template-rows: minmax(min-content, max-content);
 }

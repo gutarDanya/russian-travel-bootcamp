@@ -1,31 +1,31 @@
-.page{
+.page {
     max-width: 1280px;
-    margin-top:0;
-    margin-bottom:0;
-    margin-right:auto;
-    margin-left:auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: auto;
+    margin-left: auto;
     font-family: "inter", sans-serif;
-    background-color:#2A2C2F;
-    padding-bottom:24px;
+    background-color: #2A2C2F;
+    padding-bottom: 24px;
     padding-top: 28px;
     box-sizing: border-box;
 }
 
-@media (max-width:1024px){
-    .page{
-        max-width:1024px;
+@media (max-width:1024px) {
+    .page {
+        max-width: 1024px;
     }
 }
 
-@media (max-width: 768px){
-    .page{
-        max-width:768px;
+@media (max-width: 768px) {
+    .page {
+        max-width: 768px;
     }
 }
 
-@media (max-width: 320px){
-    .page{
-        max-width:320px;
+@media (max-width: 320px) {
+    .page {
+        width: 320px;
         padding-top: 16px;
     }
 }

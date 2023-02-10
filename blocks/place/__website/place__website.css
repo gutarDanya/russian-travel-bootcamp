@@ -1,12 +1,6 @@
-.place__website{
-grid-area: website;
-display:flex;
-flex-direction: column;
-justify-content: flex-start;
-}
-
-@media (max-width:320px){
-    .place__website{
-        justify-content: flex-start;
-    }
+.place__website {
+    grid-area: website;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
 }
