@@ -3,6 +3,7 @@
     flex-direction: column;
     margin: 114px auto 0 148px;
     max-width: 690px;
+    align-self: flex-start;
 }
 
 @media(max-width:1024px) {

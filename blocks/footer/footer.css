@@ -5,14 +5,10 @@
     width: calc(100% - 96px);
 }
 
-@media (max-width:1024px) {
-    .footer {}
-}
-
 @media (max-width:768px) {
     .footer {
         margin: 88px 24px 0;
-        max-width: 720px;
+        width: calc(100% - 48px);
         margin-top: 88px;
     }
 }
