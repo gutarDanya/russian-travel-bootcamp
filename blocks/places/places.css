@@ -15,7 +15,7 @@
     .places {
         margin: 88px auto 0;
         row-gap: 73px;
-        width:calc(100% - 48px);
+        width: calc(100% - 48px);
     }
 }
 
