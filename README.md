@@ -11,4 +11,4 @@
 
 ##Проекткная работа на GitHub
 
-* [ссылка на проект в гитхаб](https://github.com/gutarDanya/russian-travel-bootcamp)
+* [ссылка на проект в гитхаб](https://gutardanya.github.io/russian-travel-bootcamp/)
