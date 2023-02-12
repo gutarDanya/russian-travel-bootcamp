@@ -23,7 +23,7 @@
 }
 
 
-@media (max-width:670px) {
+@media (max-width:680px) {
     .place {
         grid-template-columns: minmax(min-content, max-content);
         width: 320px;
